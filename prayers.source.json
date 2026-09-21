@@ -1,0 +1,9 @@
+[
+  {
+    "id": "test_chime",
+    "title": "Test Chime",
+    "category": "custom",
+    "description": "A short calm sound so you can test downloading and playback. Replace it with your own prayers.",
+    "file": "test_chime.m4a"
+  }
+]

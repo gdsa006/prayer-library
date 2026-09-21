@@ -1,0 +1,11 @@
+[
+  {
+    "id": "test_chime",
+    "title": "Test Chime",
+    "audio_url": "https://gdsa006.github.io/prayer-library/audio/test_chime.m4a",
+    "duration": 11,
+    "category": "custom",
+    "description": "A short calm sound so you can test downloading and playback. Replace it with your own prayers.",
+    "file_size": 89914
+  }
+]
