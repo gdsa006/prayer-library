@@ -5,5 +5,12 @@
     "category": "custom",
     "description": "A short calm sound so you can test downloading and playback. Replace it with your own prayers.",
     "file": "test_chime.m4a"
-  }
+  },
+  {
+      "id": "test_prayer",
+      "title": "Test Prayer",
+      "category": "custom",
+      "description": "A test prayer for trying out downloads.",
+      "file": "test_prayer.m4a"
+    }
 ]

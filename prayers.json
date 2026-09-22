@@ -7,5 +7,14 @@
     "category": "custom",
     "description": "A short calm sound so you can test downloading and playback. Replace it with your own prayers.",
     "file_size": 89914
+  },
+  {
+    "id": "test_prayer",
+    "title": "Test Prayer",
+    "audio_url": "https://gdsa006.github.io/prayer-library/audio/test_prayer.m4a",
+    "duration": 96,
+    "category": "custom",
+    "description": "A test prayer for trying out downloads.",
+    "file_size": 3862609
   }
 ]
