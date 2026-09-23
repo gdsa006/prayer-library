@@ -16,5 +16,14 @@
     "category": "custom",
     "description": "A test prayer for trying out downloads.",
     "file_size": 3862609
+  },
+  {
+    "id": "brown_noise",
+    "title": "Brown Noise",
+    "audio_url": "https://gdsa006.github.io/prayer-library/audio/brown_noise.m4a",
+    "duration": 10,
+    "category": "custom",
+    "description": "A test prayer for trying out downloads.",
+    "file_size": 163403
   }
 ]

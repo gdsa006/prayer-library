@@ -12,5 +12,12 @@
       "category": "custom",
       "description": "A test prayer for trying out downloads.",
       "file": "test_prayer.m4a"
-    }
+  },
+  {
+    "id": "brown_noise",
+    "title": "Brown Noise",
+    "category": "custom",
+    "description": "A test prayer for trying out downloads.",
+    "file": "brown_noise.m4a"
+  }
 ]
